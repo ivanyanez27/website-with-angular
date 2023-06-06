@@ -1,6 +1,7 @@
 {
   "name": "website-with-angular",
   "version": "0.0.0",
+  "description": "A simple personal website using AngularJS",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
